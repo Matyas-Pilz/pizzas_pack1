@@ -1,0 +1,5 @@
+pizzas.register_pizza("only_baked_dough_mp", {description = "Baked pizza dough",mesh = "pizzas_big.obj",tiles = {"pizzas_base1.png"},palette = nil})
+pizzas.register_pizza("ham_mp", {description = "Pizza Ham",mesh = "pizzas_big.obj",tiles = {"pizzas_base1.png^pizzas_layer_ketchup.png^pizzas_layer_ham.png"},palette = nil})
+pizzas.register_pizza("mozarella_mp", {description = "Pizza Mozarella",mesh = "pizzas_big.obj",tiles = {"pizzas_base1.png^pizzas_layer_ketchup.png^pizzas_layer_ham.png^pizzas_layer_mozarella.png"},palette = nil})
+pizzas.register_pizza("salami_mp", {description = "Pizza Salami",mesh = "pizzas_big.obj",tiles = {"pizzas_base1.png^pizzas_layer_ketchup.png^pizzas_layer_ham.png^pizzas_layer_salami.png"},palette = nil})
+pizzas.register_pizza("spinach_mp", {description = "Pizza Spinachi",mesh = "pizzas_big.obj",tiles = {"pizzas_base1.png^pizzas_layer_cheese.png^pizzas_layer_ham.png^pizzas_layer_spinach.png"},palette = nil})
