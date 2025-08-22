@@ -1,5 +1,5 @@
 Pizzas and cakes - pack 1:
- Adds some pizzas and cakes to mod https://content.luanti.org/packages/MatyasP/pizzas_pack1/.
+ Adds some pizzas and cakes to mod https://content.luanti.org/packages/MatyasP/pizzas/.
 
 Contain 4 pizzas - ham_mp, mozarella_mp, salami_mp, spinach_mp - and only_baked_dough_mp
 
